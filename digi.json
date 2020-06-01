@@ -1,0 +1,59 @@
+{
+    "Category":[
+		{
+	Digital Marketing": [
+        {
+            "Title": "What is digital marketing?",
+            "Date-": "12/9/18",
+            "Content": "Digital marketing encompasses all marketing efforts that use an electronic device or the internet.
+Businesses leverage digital channels such as search engines, social media, email, and other websites to connect with current and prospective customers.
+A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences.
+And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand,
+I've learned a lot about how those small differences are being observed across the world.
+",
+        },
+        {
+            "Title": "What is the role of digital marketing to a company?",
+            "Date-": "22/10/18",
+            "Content": "While traditional marketing might exist in print ads, phone communication, or phsycial marketing, digital marketing can occur electronically and online.
+This means that there are a number of endless possibilities for brands including email, video, social media, or website-based marketing opportunities.
+At this stage, digital marketing is vital for your business and brand awareness.
+It seems like every other brand has a website. And if they don't, they at least have a social media presence or digital ad strategy.
+Digital content and marketing is so common that consumers now expect and rely on it as a way to learn about brands.
+",
+        },
+	{
+            "Title": "How does a business define a digital marketing?",
+            "Date-": "16/2/19",
+            "Content": "Digital marketing is defined by the use of numerous digital tactics and channels to connect with customers where they spend much of their time: online.
+From the website itself to a business's online branding assets -digital Advertising,Maketing, online brochures, and beyond -- there's a spectrum of tactics that fall under the umbrella of "digital marketing."
+The best digital marketers have a clear picture of how each digital marketing campaign supports their overarching goals.
+And depending on the goals of their marketing strategy, marketers can support a larger campaign through the free and paid channels at their disposal.
+",
+        },
+	{
+            "Title": "Search Engine Optimization",
+            "Date-": "19/5/19",
+            "Content": "This is the process of optimizing your website to "rank" higher in search engine results pages, thereby increasing the amount of organic (or free) traffic your website receives.
+The channels that benefit from SEO include websites, blogs, and infographics.
+There are a number of ways to approach SEO in order to generate qualified traffic to your website. These include:
+•	On page SEO: This type of SEO focuses on all of the content that exists "on the page" when looking at a website.
+•	Off page SEO: This type of SEO focuses on all of the activity that takes place "off the page" when looking to optimize your website.
+•	Technical SEO: This type of SEO focuses on the backend of your website, and how your pages are coded. Image compression, structured data, and CSS file optimization are all forms of technical SEO that can increase your website s local speed.
+",
+        },
+	{
+            "Title": "Content Marketing",
+            "Date-": "28/9/19",
+            "Content": "This term denotes the creation and promotion of content assets for the purpose of generating brand awareness, traffic growth, lead generation, and customers.
+The channels that can play a part in your content marketing strategy include:
+•	Blog posts: Writing and publishing articles on a company blog helps you demonstrate your industry expertise and generates organic search traffic for your business.
+•	Ebooks and whitepapers: Ebooks, whitepapers, and similar long-form content helps further educate website visitors.
+It also allows you to exchange content for a reader's contact information, generating leads for your company and moving people through the buyer's journey.
+•	Infographics: Sometimes, readers want you to show, not tell. Infographics are a form of visual content that helps website visitors visualize a concept you want to help them learn.
+",
+        }
+    ]
+}
+]
+}
